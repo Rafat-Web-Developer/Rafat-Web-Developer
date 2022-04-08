@@ -1,4 +1,4 @@
-<h1 align="center">Assalamualaikom</h1>
+<h1 align="center" color="blue">Assalamualaikom</h1>
 <h1 align="center">Hi 👋, I'm Rafat Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
