@@ -1,12 +1,12 @@
-<h1 align="center">```diff
-- This is a red colored line
-+ This is a green colored line
-@@ This is a purple colored line @@
-```</h1>
+<h1 align="center"></h1>
 <h1 align="center">Hi 👋, I'm Rafat Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-
+```diff
+- <h1>This is a red colored line<h1>
++ This is a green colored line
+@@ This is a purple colored line @@
+```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafat-web-developer&label=Profile%20views&color=0e75b6&style=flat" alt="rafat-web-developer" /> </p>
 
