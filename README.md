@@ -8,6 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rafat-Web-Developer](https://github.com/Rafat-Web-Developer)
 
+- 📫 How to reach me **rafat.hossain.cse@gmail.com**
 - 📫 How to reach me **rafathossain.cse@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
